@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background: url(/img/photo-1540015605283-b24e303c7f6e.jpeg
+    ) center/cover no-repeat;
+    height: 100vh;
+  }
+  header{
+    display: flex;
+    padding: 10px 10px 0;
+    justify-content:space-between;
+    background: rgba(0,0,0,.8);
+  }
+  ul{
+    display: flex;
+    list-style-type:none;
+    margin-top: 0;
+  }
+  li{
+    padding-left: 20px;
+  }
+  a{
+    text-decoration:none;
+    color: #fff;;
+  }
+  
